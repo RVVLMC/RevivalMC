@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="RVVL.png" alt="RevivalMC" width="180">
+  <img src="/RVVL.png" alt="RevivalMC" width="180">
 </p>
 
 # RevivalMC
